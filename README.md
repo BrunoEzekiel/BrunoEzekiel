@@ -1,7 +1,7 @@
 # <h1 style="font-family: Arial; font-size: 48px;">👋 Olá, eu sou o @BrunoEzekiel</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Imagem do perfil" width="200" height="200">
+  <img src="https://th.bing.com/th/id/R.b9696ad8e5faf5dc033150cd842d0ead?rik=RCp8yiPVTMGoIA&pid=ImgRaw&r=0" alt="Imagem do perfil" width="100%" height="100%">
 </p>
 
 ## <h2 style="font-family: Arial; font-size: 36px;">👀 Estou interessado em ...</h2>
