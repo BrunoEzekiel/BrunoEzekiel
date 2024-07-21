@@ -70,5 +70,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2e/0c/ed/2e0cedc345bde352f0c121348febf259.jpg" alt="Shonibi Anime" width="60%" height="100%">
+  <img src="https://i.pinimg.com/originals/0c/64/9a/0c649a0c7f4c86a71aa4a89341e32881.gif">
 </p>
