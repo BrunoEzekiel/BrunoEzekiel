@@ -1,4 +1,4 @@
-# <h1 style="font-family: Montserrat; font-size: 48px;">👋 Olá, eu sou o @BrunoEzekiel</h1>
+# <h1 style="font-family: Montserrat; font-size: 48px;"> Olá, eu sou o Bruno Ezekiel </h1>
 
 <p align="center">
   <img src="https://th.bing.com/th/id/R.b9696ad8e5faf5dc033150cd842d0ead?rik=RCp8yiPVTMGoIA&pid=ImgRaw&r=0" alt="Imagem do perfil" width="60%" height="100%">
@@ -41,7 +41,7 @@
 </p>
 
 <p style="font-family: Roboto; font-size: 24px;">
-## 📫 Como me encontrar:
+📫 Como me encontrar:
 <br>
   <a href="mailto:eps.bruno@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
@@ -52,6 +52,7 @@
   <a href="https://github.com/BrunoEzekiel" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  +55 (21) 96686-9051
 </p>
 <p align="center">
   <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0166.gif" alt="linha" width="100%" height="50">
