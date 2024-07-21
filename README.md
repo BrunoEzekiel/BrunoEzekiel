@@ -26,33 +26,42 @@
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML">
 </p>
 
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=BrunoEzekiel&show_icons=true&locale=en&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoEzekiel&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
+</div>
+
 <p style="font-family: Roboto; font-size: 24px;">
-  💞️ Estou procurando colaborar em projetos de código aberto e desenvolvimento backend.
+<h2>Estou procurando colaborar em projetos de código aberto e desenvolvimento backend.</h2> 
 </p>
 
 ## 🎓 Educação
 <p style="font-family: Roboto; font-size: 24px;">
-  Estou cursando Análise e Desenvolvimento de Sistemas.
+ <h2> Estou cursando Análise e Desenvolvimento de Sistemas.</h2>
 </p>
 
 <p style="font-family: Roboto; font-size: 24px;">
-  📫 Como me encontrar:
-  <br>
+## 📫 Como me encontrar:
+<br>
   <a href="mailto:eps.bruno@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/bepsweb/" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-ezekiel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/BrunoEzekiel" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
-<p style="font-family: Roboto; font-size: 24px;">
-  ⚡ Curiosidade: Equilibro minha carreira em programação com ser motorista de aplicativo! Já fui desenhista de histórias em quadrinhos no Brasil e Estados Unidos.
-</p>
-
 <p align="center">
   <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0166.gif" alt="linha" width="100%" height="50">
 </p>
+<p style="font-family: Roboto; font-size: 24px;">
+Curiosidade: Equilibro minha carreira em programação com ser motorista de aplicativo! Já fui desenhista de histórias em quadrinhos no Brasil e Estados Unidos.
+</p>
+
+
+<!---
+BrunoEzekiel/BrunoEzekiel é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil GitHub.
+Você pode clicar no link de visualização para ver suas alterações.
+--->
