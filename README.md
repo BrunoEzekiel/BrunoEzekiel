@@ -1,9 +1,9 @@
 <h1 align="center" style="font-family: Montserrat; font-size: 48px;">  
-  Olá, eu sou o Bruno Ezequiel! 👋  
+  Olá, eu sou o Bruno Silva! 👋  
 </h1>  
 
 <p align="center" style="font-family: Roboto; font-size: 24px;">  
-  👀 Interessado em bancos de dados eficientes, desenvolvimento backend e aprendizado contínuo de novas linguagens e frameworks.  
+  
 </p>  
 
 ---
@@ -35,17 +35,6 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=BrunoEzekiel&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoEzekiel&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="Linguagens mais usadas"/>
 </div>  
-
----
-
-## 🤝 Procurando colaborar em  
-✅ Projetos de código aberto  
-✅ Desenvolvimento backend  
-
----
-
-## 🎓 Formação  
-🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
 
 ---
 
