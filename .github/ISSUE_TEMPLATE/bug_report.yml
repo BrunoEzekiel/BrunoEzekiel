@@ -1,0 +1,65 @@
+name: Bug Report
+description: Reporte um bug para nos ajudar a melhorar
+title: "[BUG] "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por reportar este bug! Por favor, preencha as informações abaixo.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição do Bug
+      description: Uma descrição clara e concisa do que o bug é.
+      placeholder: Descreva o que aconteceu...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Passos para Reproduzir
+      description: Passos para reproduzir o comportamento
+      placeholder: |
+        1. Vá para '...'
+        2. Clique em '....'
+        3. Role para baixo até '....'
+        4. Veja o erro
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamento Esperado
+      description: Uma descrição clara e concisa do que você esperava que acontecesse.
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Se aplicável, adicione screenshots para ajudar a explicar seu problema.
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Ambiente
+      description: |
+        Informações sobre seu ambiente:
+      value: |
+        - OS: [ex. iOS]
+        - Browser [ex. chrome, safari]
+        - Version [ex. 22]
+      render: markdown
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Informações Adicionais
+      description: Adicione qualquer outra informação sobre o problema aqui.

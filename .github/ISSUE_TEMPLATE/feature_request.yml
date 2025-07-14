@@ -1,0 +1,36 @@
+name: Feature Request
+description: Sugira uma ideia para este projeto
+title: "[FEATURE] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por sugerir uma nova feature! Por favor, preencha as informações abaixo.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema Relacionado
+      description: Está relacionado a um problema? Por favor, descreva.
+      placeholder: Estou sempre frustrado quando [...]
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solução Desejada
+      description: Uma descrição clara e concisa do que você quer que aconteça.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas Consideradas
+      description: Uma descrição clara e concisa de soluções ou features alternativas que você considerou.
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Informações Adicionais
+      description: Adicione qualquer outra informação ou screenshots sobre a feature request aqui.
