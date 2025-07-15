@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Bruno Ezekiel!
+# 👋 Olá, eu sou Bruno Silva!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
@@ -12,8 +12,8 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 - 🌱 Constantemente aprendendo novas tecnologias
 - 👯 Procurando colaborar em projetos open source
 - 💬 Pergunte-me sobre desenvolvimento web, mobile ou qualquer tecnologia
-- 📫 Como me encontrar: **[seu-email@exemplo.com]**
-- ⚡ Curiosidade: Amo resolver problemas complexos com código elegante
+- 📫 Como me encontrar: **[eps.bruno@gmail.com]**
+- ⚡ Curiosidade: Gosto de criar e empreender!
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -73,20 +73,20 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 
 ## 🚀 Projetos em Destaque
 
-### 🌟 [Nome do Projeto 1](link-do-projeto)
-- **Descrição**: Breve descrição do que o projeto faz
-- **Tecnologias**: React, Node.js, MongoDB
-- **Status**: ✅ Concluído / 🚧 Em desenvolvimento
+### 🌟 [Back2U](link-do-projeto)
+- **Descrição**: Sistema web de Achados e Perdidos com recompensa, que conecta quem perdeu um objeto a quem o encontrou. O usuário pode cadastrar itens perdidos ou achados, acompanhar o status de cada item, e oferecer uma recompensa como incentivo à devolução. Ideal para uso em escolas, empresas, eventos ou uso pessoal.
+- **Tecnologias**: Django, Bootstrap, PostegreSQL
+- **Status**: ✅ Concluído /
 
-### 🌟 [Nome do Projeto 2](link-do-projeto)
-- **Descrição**: Breve descrição do que o projeto faz
-- **Tecnologias**: Vue.js, Python, PostgreSQL
-- **Status**: ✅ Concluído / 🚧 Em desenvolvimento
+### 🌟 [Agenda](link-do-projeto)
+- **Descrição**: O projeto Agenda de Contatos é uma aplicação web desenvolvida com o objetivo de praticar e aperfeiçoar operações CRUD (Create, Read, Update, Delete) utilizando tecnologias modernas de desenvolvimento backend com Python.
+- **Tecnologias**: Django
+- **Status**: ✅ Concluído /
 
-### 🌟 [Nome do Projeto 3](link-do-projeto)
-- **Descrição**: Breve descrição do que o projeto faz
-- **Tecnologias**: Angular, C#, SQL Server
-- **Status**: ✅ Concluído / 🚧 Em desenvolvimento
+### 🌟 [TODO_list](link-do-projeto)
+- **Descrição**:Aplicação web simples para gerenciamento de tarefas. Permite ao usuário criar, visualizar, editar e excluir tarefas do dia a dia, com foco em produtividade e organização pessoal.
+- **Tecnologias**: Django
+- **Status**: ✅ Concluído /
 
 ## 🎯 Metas 2025
 
@@ -100,27 +100,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/epsbruno)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoEzekiel)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://brsulutions)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eps.bruno@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/back2U.app)
 
-</div>
-
-## 💰 Apoie Meu Trabalho
-
-Se você gosta dos meus projetos e quer apoiar meu trabalho:
-
-[![Ko-Fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/seu-usuario)
-[![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/seu-usuario)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrunoEzekiel&color=blueviolet&style=flat-square" alt="Profile Views" />
-  
-  **💡 "O código é como um poema - deve ser elegante, eficiente e inspirador"**
-  
-  ⭐ **Se você gostou dos meus projetos, deixe uma estrela!** ⭐
-</div>
