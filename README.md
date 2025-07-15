@@ -24,7 +24,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -45,19 +44,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoEzekiel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoEzekiel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoEzekiel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ## 🏆 Troféus do GitHub
 
@@ -65,11 +51,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
   <img src="https://github-profile-trophy.vercel.app/?username=BrunoEzekiel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoEzekiel&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ## 🚀 Projetos em Destaque
 
