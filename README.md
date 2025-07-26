@@ -43,14 +43,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 
 </div>
 
-
-## 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrunoEzekiel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-
 ## 🚀 Projetos em Destaque
 
 ### 🌟 [Back2U](link-do-projeto)
