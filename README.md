@@ -60,14 +60,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 - **Tecnologias**: Django
 - **Status**: ✅ Concluído /
 
-## 🎯 Metas 2025
-
-- [ ] Contribuir para 5 projetos open source
-- [ ] Aprender uma nova linguagem de programação
-- [ ] Criar um projeto de impacto social
-- [ ] Obter uma certificação em cloud computing
-- [ ] Participar de eventos de tecnologia
-
 ## 📫 Vamos Conectar!
 
 <div align="center">
