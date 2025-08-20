@@ -50,7 +50,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 - **Tecnologias**: Django, Bootstrap, PostegreSQL
 - **Status**: ✅ Concluído /
 
-### 🌟 [Agenda](link-do-projeto)
+### 🌟 [Agenda](https://github.com/BrunoEzekiel/agenda_django)
 - **Descrição**: O projeto Agenda de Contatos é uma aplicação web desenvolvida com o objetivo de praticar e aperfeiçoar operações CRUD (Create, Read, Update, Delete) utilizando tecnologias modernas de desenvolvimento backend com Python.
 - **Tecnologias**: Django
 - **Status**: ✅ Concluído /
