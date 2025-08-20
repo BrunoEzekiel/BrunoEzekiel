@@ -55,7 +55,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Te
 - **Tecnologias**: Django
 - **Status**: ✅ Concluído /
 
-### 🌟 [TODO_list](link-do-projeto)
+### 🌟 [TODO_list](https://github.com/BrunoEzekiel/todo-list-django)
 - **Descrição**:Aplicação web simples para gerenciamento de tarefas. Permite ao usuário criar, visualizar, editar e excluir tarefas do dia a dia, com foco em produtividade e organização pessoal.
 - **Tecnologias**: Django
 - **Status**: ✅ Concluído /
